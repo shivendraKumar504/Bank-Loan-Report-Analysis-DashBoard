@@ -4,7 +4,11 @@ This project provides an end-to-end, real-world data analysis experience within 
 🔹 Key Highlights:
 
 Data Extraction & Cleaning: Use SQL  to extract, transform, and prepare raw financial data for analysis.
+
 Exploratory Data Analysis (EDA): Identify trends, outliers, and patterns in financial performance using  Excel.
+
 Data Modeling: Build robust financial models and KPIs to support decision-making.
+
 Interactive Dashboards: Create compelling and dynamic dashboards using Power BI for financial reporting and insights.
+
 Business Insights: Derive actionable insights on profitability, expenses, investments, and risk management to support strategic financial decisions.
